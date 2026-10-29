@@ -7,6 +7,6 @@
     "sheets": "node scripts/sheets.js"
   },
   "dependencies": {
-    "googleapis": "^140.0.0"
+    "googleapis": "^188.0.0"
   }
 }
